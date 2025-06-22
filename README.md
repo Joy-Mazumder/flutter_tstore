@@ -5,7 +5,7 @@ A clean and responsive e-commerce app UI built with Flutter.
 
 ## 🎥 Demo Preview
 
-[![Watch Demo](https://img.youtube.com/vi/1QIDMNRSuDI/0.jpg)](https://youtube.com/shorts/1QIDMNRSuDI?feature=shared)
+https://github.com/user-attachments/assets/71547604-7d3c-46a4-879d-731391d8a959
 
 ---
 
